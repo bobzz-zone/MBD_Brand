@@ -1,3 +1,6 @@
 .ql-image, .ql-blockquote, .ql-code-block, .ql-picker, .ql-indent, .ql-link {
 	display: none !important;
 }
+.dropdown-help{display:none!important;}
+.form-footer p a {color:white!important;}
+.web-footer .footer-links{visibility: hidden;}
