@@ -1,0 +1,3 @@
+.ql-image, .ql-blockquote, .ql-code-block, .ql-picker, .ql-indent, .ql-link {
+	display: none !important;
+}
