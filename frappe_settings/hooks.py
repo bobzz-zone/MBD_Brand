@@ -13,7 +13,10 @@ app_license = "MIT"
 
 # Includes in <head>
 # ------------------
-
+website_context = {
+	"favicon": 	"/assets/frappe_settings/img/applogo.png",
+	"splash_image": "/assets/frappe_settings/img/logo.jpg"
+}
 # include js, css files in header of desk.html
 app_include_css = "/assets/frappe_settings/css/frappe_settings.css"
 app_include_js = "/assets/frappe_settings/js/frappe_settings.js"
